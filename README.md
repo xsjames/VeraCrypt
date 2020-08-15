@@ -1,3 +1,5 @@
+我们有很急切的事寻求您的帮忙！请第一时间联系我，电话/微信：17512549214 邮箱：2259461527@qq.com 
+
 This archive contains the source code of VeraCrypt.
 It is based on original TrueCrypt 7.1a with security enhancements and modifications.
 
